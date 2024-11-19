@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://pibinko.github.io/eventi/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1y-0qn4ws3wflOU0TsXpwiKPYJwGM86TbtR8rs_bVzLk/edit?gid=0#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1y-0qn4ws3wflOU0TsXpwiKPYJwGM86TbtR8rs_bVzLk/edit#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
